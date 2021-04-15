@@ -1,0 +1,26 @@
+Data science is one of the hottest jobs of this century. There are so many career opportunities for you today if you know how to work with data. But Data Scientists often face many challenges if they're not in big tech companies like FAANG. So in this article, I'm going to introduce you to some of the major challenges you may face in a data science job.
+Challenges in a Data Science Job
+Challenges are such situations that you are not ready to face. As a data scientist, there are many challenges you face when working with data, these challenges are part of your job. But some challenges are not part of your job. Simply put, you might never have thought that you would face these kinds of challenges as a Data Scientist. So here are some of the main challenges you might face in a data science job:
+Being underpaid
+Being underutilized
+The company is not data-driven
+You don't have a team
+These are some of the major challenges that you can face in a data science job if you are not working for big tech companies like FAANG. Now let's go through all these challenges faced by Data Scientists one by one.
+Being Underpaid
+Some companies don't pay you well even after doing a great job. Sometimes companies double their profits after taking your analysis and ideas into account, but they don't give you enough to motivate you. It's something that demotivates every data scientist.
+
+It is not very easy to analyze and give a suggestion on the future course of action that will help a business to double its profits. Being underpaid and still working efficiently is therefore one of the biggest challenges you can face in a data science job.
+Being Underutilized
+Some companies only hire a data scientist because this work is very trendy. They don't know how to use a data scientist for their business, so what they do to practically test you during the interview considering if you know what technologies the big tech companies are working with.
+
+As a data scientist, you learn to work with data using SQL, Python, or R. But what these companies do is they make you work with Excel and PowerPoint. This is what makes a data scientist feel underused.
+When a Company is not Data-driven
+Some businesses are not data-driven. This means they have proper data, using a data scientist correctly, but what they don't do is they don't make data-driven decisions. These companies don't respect the job of a data scientist, they just hire them to stay in the competition, but they always make decisions based on their personal experiences and preferences. This is again a big challenge you might face in a data science job.
+
+There is another category of businesses that are not data-driven but still hire a data scientist. Some businesses do not have access to data but still wants a data scientist to solve their problems using machine learning algorithms. This is again a challenge as a data scientist when a company is not data-driven.
+When You Don't Have a Team
+In big tech companies, there is a proper team of data scientists including data engineer, data analysts, machine learning engineers, data scientists and some companies also have research scientists and applied scientists.
+
+But on the other hand, some companies are only dependent on a single data scientist. Here you have to do everything from data collection to interpreting the results which is again a major challenge in a data science job.
+Summary
+So these were some of the major challenges that you can face at the initial stage of your career as a Data Scientist. Not every company will treat you like the big tech companies like FAANG does. So you should be prepared for all these challenges to not get demotivated at the initial stage of your career. I hope you liked this article on challenges in a data science job. Feel free to ask your valuable questions in the comments section below.
