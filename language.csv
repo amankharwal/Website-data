@@ -1,0 +1,1624 @@
+"Language
+","Intended use
+","Imperative
+","Object-oriented
+","Functional
+","Procedural
+","Generic
+","Reflective
+","Event-driven
+","Other paradigm(s)
+","Standardized?
+"
+"1C:Enterprise scripting language
+","Application, RAD,  business, general, web, mobile
+","Yes
+","
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Object-based,
+Prototype-based programming
+
+","No
+"
+"ActionScript 3.0
+","Application, client-side, web
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","Yes
+","
+","1996, ECMA
+"
+"Ada
+","Application, embedded, realtime, system
+","Yes
+","Yes[2]
+","
+","Yes[3]
+","Yes[4]
+","
+","
+","concurrent,[5] distributed,[6]
+","1983, 2005, 2012, ANSI, ISO, GOST 27831-88[7]
+"
+"Aldor
+","Highly domain-specific, symbolic computing
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","
+","
+","No
+"
+"ALGOL 58
+","Application
+","Yes
+","
+","
+","
+","
+","
+","
+","
+","No
+"
+"ALGOL 60
+","Application
+","Yes
+","
+","
+","Yes
+","Yes
+","
+","
+","
+","1960, IFIP WG 2.1, ISO[8]
+"
+"ALGOL 68
+","Application
+","Yes
+","
+","Yes
+","Yes
+","Yes
+","
+","
+","concurrent
+","1968, IFIP WG 2.1, GOST 27974-88,[9]
+"
+"Ateji PX
+","Parallel application
+","
+","Yes
+","
+","
+","
+","
+","
+","pi calculus
+","No
+"
+"APL
+","Application, data processing
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","array-oriented, tacit
+","1989, ISO
+"
+"Assembly language
+","General
+","Yes
+","
+","
+","
+","
+","
+","
+","any, syntax is usually highly specific, related to the target processor
+","IEEE 694-1985[10]
+"
+"AutoHotkey
+","GUI automation (macros), highly domain-specific
+","Yes
+","Yes[11]
+","
+","Yes
+","
+","
+","Yes
+","
+","No
+"
+"AutoIt
+","GUI automation (macros), highly domain-specific
+","Yes
+","
+","
+","Yes
+","
+","
+","Yes
+","
+","No
+"
+"Ballerina
+","Integration, agile, server-side, general
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","
+","Yes
+","concurrent, transactional, statically and strongly typed programming, diagrammatic / visual programming
+","2018 De facto standard via Ballerina Language Specification[12]
+"
+"Bash
+","Shell, scripting
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","No, but optionally POSIX.2 [13]
+"
+"BASIC
+","Application, education
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","1983, ANSI, ISO, ECMA
+"
+"BeanShell
+","Application, scripting
+","Yes
+","Yes
+","Yes
+","
+","
+","Yes
+","
+","
+","In progress, JCP[14]
+"
+"BLISS
+","System
+","
+","
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"BlitzMax
+","Application, game
+","Yes
+","Yes
+","
+","Yes
+","
+","Yes
+","
+","
+","No
+"
+"Boo
+","Application, game scripting
+","
+","Yes
+","
+","
+","
+","
+","
+","
+","No
+"
+"Bro
+","domain-specific, application
+","Yes
+","
+","
+","
+","
+","
+","Yes
+","
+","No
+"
+"C
+","Application, system,[15] general purpose, low-level operations
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","1989, ANSI C89, ISO C90, ISO C99, ISO C11, ISO C18[16]
+"
+"C++
+","Application, system
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","1998. ISO/IEC 2003, ISO/IEC 2011,ISO/IEC 2014,ISO/IEC 2017[17]
+"
+"C#
+","Application, RAD, business, client-side, general, server-side, web
+","Yes
+","Yes
+","Yes[18]
+","Yes
+","Yes
+","Yes
+","Yes
+","structured, concurrent
+","2000, ECMA, ISO[19]
+"
+"Clarion
+","General, business, web
+","Yes
+","Yes
+","Yes[20]
+","
+","
+","
+","
+","
+","Un­known
+"
+"Clean
+","General
+","
+","
+","Yes
+","
+","Yes
+","
+","
+","
+","No
+"
+"Clojure
+","General
+","
+","
+","Yes
+","
+","
+","
+","
+","concurrent
+","No
+"
+"CLU
+","General
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","
+","
+","
+","No
+"
+"COBOL
+","Application, business
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","
+","
+","ANSI X3.23 1968, 1974, 1985; ISO/IEC 1989:1985, 2002, 2014
+"
+"Cobra
+","Application, business, general, web
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","
+","
+","No
+"
+"ColdFusion (CFML)
+","Web
+","
+","Yes
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"Common Lisp
+","General
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","extensible syntax, Array-oriented, syntactic macros, multiple dispatch, concurrent
+","1994, ANSI
+"
+"COMAL 80
+","Education
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"Crystal
+","General purpose
+","Yes
+","Yes[21]
+","Yes
+","Yes
+","
+","
+","
+","alpha stage[22]
+","No
+"
+"Curry
+","Application
+","
+","
+","Yes
+","
+","Yes
+","
+","
+","lazy evaluation, non-determinism
+","De facto standard via Curry Language Report
+"
+"Cython
+","Application, general, numerical computing
+","Yes
+","Yes
+","Yes
+","
+","
+","Yes
+","
+","aspect-oriented
+","No
+"
+"D
+","Application, system
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","generative, concurrent
+","No
+"
+"Dart
+","Application, web, server-side, mobile, IoT
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","structured
+","Ecma-408 standard
+"
+"Dylan
+","Application
+","
+","Yes
+","Yes
+","
+","
+","
+","
+","
+","No
+"
+"Eiffel
+","General, application, business, client-side, server-side, web (EWF)
+","Yes
+","Yes
+","Yes[23][24]
+","
+","Yes
+","Yes Erl-G
+","Yes Agents
+","distributed SCOOP, Void-safe
+","2005, ECMA, ISO[25]
+"
+"Elixir
+","Application, distributed
+","
+","
+","Yes
+","
+","
+","Yes
+","Yes
+","concurrent, distributed
+","No
+"
+"Erlang
+","Application, distributed
+","
+","
+","Yes
+","
+","
+","Yes
+","Yes
+","concurrent, distributed
+","No
+"
+"Euphoria
+","Application
+","
+","
+","
+","Yes
+","
+","Yes
+","
+","
+","No
+"
+"Factor
+","General
+","Yes
+","
+","can be viewed as
+","
+","Yes
+","Yes
+","
+","stack-oriented
+","No
+"
+"FP
+","
+","
+","
+","Yes
+","
+","
+","
+","
+","
+","No
+"
+"F#
+","Application
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","No
+"
+"Forth
+","General
+","Yes
+","
+","can be viewed as
+","
+","
+","
+","
+","stack-oriented
+","1994, ANSI
+"
+"Fortran
+","Application, numerical computing
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","
+","array-based, vectorized, concurrent, native distributed/shared-memory parallelism
+","1966, ANSI 66, ANSI 77, MIL-STD-1753, ISO 90, ISO 95, ISO 2003, ISO/IEC 1539-1:2010 (2008), ISO/IEC JTC1/SC22/WG5 N2145 (2018)
+"
+"FreeBASIC
+","Application, numerical computing
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","
+","
+","
+","No
+"
+"Gambas
+","Application
+","Yes
+","Yes
+","
+","
+","
+","
+","Yes
+","
+","No
+"
+"Game Maker Language
+","Application, games
+","Yes
+","Yes
+","
+","
+","
+","
+","Yes
+","
+","No
+"
+"GLBasic
+","Application, games
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","
+","simple object-oriented
+","No
+"
+"Go
+","Application, web, server-side
+","Yes
+","[26]
+","
+","Yes
+","
+","Yes
+","Yes
+","concurrent
+","De facto standard via Go Language Specification
+"
+"Gosu
+","Application, general, scripting, web
+","Yes
+","Yes
+","
+","
+","Yes
+","Yes
+","
+","
+","No
+"
+"GraphTalk
+","Application
+","
+","Yes
+","
+","
+","
+","
+","
+","logic
+","No
+"
+"Groovy
+","Application, general, scripting, web
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","meta-programming
+","In progress, JCP[27]
+"
+"Harbour
+","Application, business, data processing, general, web
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","declarative
+","No
+"
+"Haskell
+","Application
+","
+","
+","Yes
+","
+","Yes
+","
+","
+","lazy evaluation
+","2010, Haskell 2010[28]
+"
+"Haxe
+","Application, general, web
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","
+","
+","No
+"
+"HyperNext
+","Application, education
+","
+","
+","
+","Yes
+","
+","
+","Yes
+","weakly typed
+","No
+"
+"HyperTalk
+","Application, RAD, general
+","
+","Yes
+","
+","
+","
+","
+","Yes
+","weakly typed
+","Un­known
+"
+"Io
+","Application, host-driven scripting
+","Yes
+","Yes
+","
+","
+","
+","
+","
+","
+","No
+"
+"IPL
+","General
+","
+","
+","Yes
+","
+","
+","
+","
+","
+","Un­known
+"
+"ISLISP
+","General
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","
+","1997, 2007, ISO
+"
+"J
+","Data processing
+","
+","
+","
+","
+","
+","
+","
+","array-oriented, function-level, tacit
+","No
+"
+"JADE
+","Application, distributed
+","Yes
+","Yes
+","
+","
+","
+","
+","
+","
+","No
+"
+"Java
+","Application, business, client-side, general, mobile development, server-side, web
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","concurrent
+","De facto standard via Java Language Specification
+"
+"JavaScript
+","Client-side, server-side, web
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","prototype-based
+","1997, ECMA
+"
+"Joy
+","Research
+","
+","
+","Yes
+","
+","
+","
+","
+","stack-oriented
+","No
+"
+"Julia
+","General, technical computing
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","multiple dispatch, meta, scalar and array-oriented, parallel, concurrent, distributed (""cloud"")
+","No
+"
+"K
+","Data processing, business
+","
+","
+","
+","
+","
+","
+","
+","array-oriented, tacit
+","Un­known
+"
+"Kotlin
+","Application, mobile development, server-side, client-side, web
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes[29]
+","Yes
+","
+","No
+"
+"Ksh
+","Shell, scripting
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","
+","several variants, custom programmable, dynamic loadable modules
+","1992, POSIX.2 [30]
+"
+"LabVIEW (G)
+","Application, industrial instrumentation-automation
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","Yes
+","dataflow, visual
+","No
+"
+"Lisp
+","General
+","
+","
+","Yes
+","
+","
+","
+","
+","
+","Un­known
+"
+"LiveCode
+","Application, RAD, general
+","
+","Yes
+","
+","
+","
+","
+","Yes
+","weakly typed
+","No
+"
+"Logtalk
+","Artificial intelligence, application
+","
+","Yes
+","
+","
+","
+","Yes
+","Yes
+","logic
+","No
+"
+"LSL
+","Virtual worlds content scripting and animation
+","Yes
+","
+","
+","Yes
+","
+","
+","Yes
+","Scripts exist in in-world objects
+","Maybe[31]
+"
+"Lua
+","Application, embedded scripting
+","Yes
+","Yes[32]
+","Yes
+","Yes
+","
+","Yes
+","
+","aspect-oriented, prototype-based
+","No[33]
+"
+"Maple
+","Symbolic computation, numerical computing
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","distributed
+","No
+"
+"Mathematica
+","Symbolic language
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","logic, distributed
+","No
+"
+"MATLAB
+","Highly domain-specific, numerical computing
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"Modula-2
+","Application, system
+","Yes
+","
+","
+","
+","Yes
+","
+","
+","
+","1996, ISO[34]
+"
+"Modula-3
+","Application
+","Yes
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","No
+"
+"MUMPS (M)
+","Application, databases
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","concurrent, multi-user, NoSQL, transaction processing
+","1977, ANSI
+"
+"Nim
+","Application, general, web, scripting, system
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","multiple dispatch, Concurrent, meta
+","No
+"
+"Oberon
+","Application, system
+","Yes
+","Yes
+","
+","
+","
+","
+","
+","
+","No
+"
+"Object Pascal
+","Application, general, mobile app, web
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","Yes
+","Yes
+","structured
+","No
+"
+"Objective-C
+","Application, general
+","Yes
+","Yes
+","
+","Yes
+","
+","Yes
+","
+","concurrent
+","No
+"
+"OCaml
+","Application, general
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","No
+"
+"Occam
+","General
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","concurrent, process-oriented
+","No
+"
+"Opa
+","Web applications
+","Yes
+","
+","Yes
+","
+","Yes
+","
+","
+","distributed
+","No
+"
+"OpenLisp
+","General, Embedded Lisp Engine
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","
+","Supersedes ISLISP, ISO
+"
+"Oxygene
+","Application
+","Yes
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","No
+"
+"Oz-Mozart
+","Application, distribution, education
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","
+","concurrent, logic
+","No
+"
+"Pascal
+","Application, education
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","1983, ISO[35]
+"
+"Perl
+","Application, scripting, text processing, Web
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","
+","No
+"
+"PHP
+","Server-side, web application, web
+","Yes
+","Yes[36]
+","Yes[37]
+","Yes
+","
+","Yes
+","
+","
+","""De facto"" standard via language specification and Requests for Comments (RFCs)
+"
+"PL/I
+","Application
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","
+","
+","1969, ECMA-50 (1976)
+"
+"Plus
+","Application, system development
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"PostScript
+","Graphics, page description
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+concatenative, stack-oriented
+
+","Yes, as the PostScript Reference Manual[38]
+"
+"PowerShell
+","Administration, application, general, scripting
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","
+","pipeline
+","No
+"
+"Prolog
+","Application, artificial intelligence
+","
+","
+","Yes
+","Yes
+","
+","Yes
+","
+","logic, declarative
+","1995, ISO/IEC 13211-1:1995, TC1 2007, TC2 2012, TC3 2017
+"
+"PureBasic
+","Application
+","
+","
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"Python
+","Application, general, web, scripting, artificial intelligence, scientific computing
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","aspect-oriented
+","""De facto"" standard via Python Enhancement Proposals (PEPs)
+"
+"R
+","Application, statistics
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","
+","
+","No
+"
+"Racket
+","Education, general, scripting
+","
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","
+","modular, logic, meta
+","No
+"
+"Raku
+","Scripting, text processing, glue
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","aspect-oriented, array, lazy evaluation, multiple dispatch, metaprogramming
+","Yes
+"
+"REALbasic
+","Application
+","
+","
+","
+","Yes
+","
+","
+","
+","
+","Un­known
+"
+"Rebol
+","Distributed
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","dialected
+","No
+"
+"REXX
+","Scripting
+","Yes
+","Yes (NetRexx and Object REXX dialects)
+","No
+","Yes
+","
+","No
+","No
+","
+","1996 (ANSI X3.274-1996)
+"
+"RPG
+","Application, system
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"Ruby
+","Application, scripting, web
+","Yes
+","Yes
+","Yes
+","
+","
+","Yes
+","
+","aspect-oriented
+","2011(JIS X 3017), 2012(ISO/IEC 30170)
+"
+"Rust
+","Application, server-side, system, web
+","Yes
+","Yes[39]
+","Yes
+","Yes
+","Yes
+","No[40]
+","Yes
+","concurrent
+","No
+"
+"S
+","Application, statistics
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","
+","No
+"
+"S-Lang
+","Application, numerical, scripting
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","
+","No
+"
+"Scala
+","Application, distributed, web
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","Yes
+","
+","De facto standard via Scala Language Specification (SLS)
+"
+"Scheme
+","Education, general
+","
+","
+","Yes
+","
+","
+","
+","
+","extensible syntax
+","1998, R6RS
+"
+"Seed7
+","Application, general, scripting, web
+","Yes
+","Yes
+","
+","
+","Yes
+","Yes
+","
+","multi-paradigm, extensible, structured
+","No
+"
+"Simula
+","Education, general
+","Yes
+","Yes
+","
+","
+","
+","
+","Yes
+","discrete event simulation, multi-threaded (quasi-parallel) program execution
+","1968
+"
+"Small Basic
+","Application, education, games
+","Yes
+","
+","
+","
+","
+","
+","Yes
+","component-oriented
+","No
+"
+"Smalltalk
+","Application, general, business, artificial intelligence, education, web
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","concurrent, declarative
+","1998, ANSI
+"
+"SNOBOL
+","Text processing
+","
+","
+","
+","
+","
+","
+","
+","
+","Un­known
+"
+"Standard ML
+","Application
+","Yes
+","
+","Yes
+","
+","Yes
+","
+","
+","
+","1997, SML '97[41]
+"
+"Swift
+","Application, general
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","concurrent, declarative, protocol-oriented
+","No
+"
+"Tcl
+","Application, scripting, web
+","Yes
+","Yes
+","Yes
+","Yes
+","
+","Yes
+","Yes
+","
+","No
+"
+"Visual Basic
+","Application, RAD, education, business, general, (Includes VBA), office automation
+","Yes
+","Yes
+","
+","
+","Yes
+","
+","Yes
+","component-oriented
+","No
+"
+"Visual Basic .NET
+","Application, RAD, education, web, business, general
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","structured, concurrent
+","No
+"
+"Visual FoxPro
+","Application
+","
+","Yes
+","
+","
+","
+","
+","
+","data-centric, logic
+","No
+"
+"Visual Prolog
+","Application
+","Yes
+","Yes
+","Yes
+","
+","
+","
+","Yes
+","declarative, logic
+","No
+"
+"Wolfram Language
+","Symbolic language
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","Yes
+","logic, distributed
+","No
+"
+"XL
+","
+","Yes
+","Yes
+","
+","
+","
+","
+","
+","concept programming
+","No
+"
+"Xojo
+","Application, RAD, general, web
+","Yes
+","Yes
+","
+","Yes
+","
+","Yes
+","Yes
+","
+","No
+"
+"XPath/XQuery
+","Databases, data processing, scripting
+","
+","
+","Yes
+","
+","
+","
+","
+","tree-oriented
+","W3C 1999 XPath 1, 2010 XQuery 1, 2014 XPath/XQuery 3.0
+"
+"Zsh
+","Shell, scripting
+","Yes
+","
+","
+","Yes
+","
+","
+","
+","loadable modules
+","No
+"
