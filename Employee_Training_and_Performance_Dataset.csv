@@ -1,0 +1,1001 @@
+EmployeeID,Age,Department,Education,ExperienceYears,TrainingAttended,PerformanceScore
+1,38,Marketing,High School,10.8,Yes,79.8
+2,34,Sales,Bachelor,8.3,Yes,70.7
+3,39,HR,High School,10.9,Yes,91.6
+4,45,Finance,High School,4.4,Yes,73.8
+5,33,HR,High School,13.7,Yes,68.8
+6,33,HR,Bachelor,10.8,No,71.9
+7,46,Sales,Master,10.6,Yes,72.8
+8,40,Sales,Bachelor,3.5,Yes,62.4
+9,31,Sales,Bachelor,14.8,Yes,61.5
+10,38,Engineering,Bachelor,7.9,Yes,69.2
+11,31,Marketing,High School,10.9,No,59.7
+12,31,Engineering,Master,6.7,Yes,69.8
+13,36,Marketing,Bachelor,9.0,Yes,61.6
+14,21,Marketing,Bachelor,9.2,Yes,71.2
+15,22,HR,Bachelor,0.0,Yes,75.8
+16,31,HR,High School,10.3,Yes,70.6
+17,27,Marketing,Bachelor,15.9,No,64.4
+18,37,Marketing,Bachelor,10.2,No,63.2
+19,28,Engineering,Master,4.2,No,79.4
+20,25,Engineering,High School,10.6,Yes,66.5
+21,45,HR,Bachelor,12.2,No,77.6
+22,33,Sales,Bachelor,10.0,Yes,55.3
+23,35,Marketing,High School,7.7,Yes,72.3
+24,25,Engineering,Bachelor,7.0,No,57.7
+25,31,HR,Master,7.0,Yes,64.8
+26,35,Engineering,Master,10.8,Yes,65.2
+27,26,Marketing,Bachelor,2.4,No,60.3
+28,37,Marketing,Master,6.5,Yes,67.8
+29,30,Finance,PhD,14.4,Yes,80.8
+30,32,Sales,Master,14.5,Yes,74.1
+31,30,Finance,High School,2.1,No,67.3
+32,47,HR,Master,3.5,No,60.4
+33,34,Engineering,Bachelor,6.9,No,73.6
+34,27,HR,PhD,11.6,Yes,72.1
+35,40,Marketing,Bachelor,0.7,Yes,69.6
+36,26,Finance,High School,7.8,Yes,50.2
+37,36,Finance,Master,6.1,Yes,73.0
+38,21,Finance,Bachelor,13.3,Yes,79.4
+39,25,HR,PhD,1.3,Yes,61.8
+40,36,Marketing,PhD,8.4,Yes,74.3
+41,40,Engineering,Bachelor,6.4,No,70.4
+42,36,Engineering,High School,13.9,Yes,53.2
+43,34,HR,Bachelor,10.4,Yes,72.0
+44,32,Finance,High School,5.7,Yes,78.7
+45,24,Sales,High School,11.4,No,76.1
+46,29,HR,Master,6.4,No,86.9
+47,31,HR,Bachelor,12.0,No,84.6
+48,42,Marketing,Bachelor,7.1,No,66.4
+49,37,Engineering,PhD,12.2,Yes,66.9
+50,22,HR,Bachelor,9.7,Yes,80.9
+51,37,HR,Bachelor,21.0,Yes,59.7
+52,32,Finance,Master,7.8,Yes,60.5
+53,30,Finance,High School,9.5,Yes,66.5
+54,39,Sales,Master,6.1,Yes,60.2
+55,42,Marketing,PhD,8.0,No,69.1
+56,41,Sales,Master,0.0,No,59.0
+57,29,Finance,Bachelor,9.9,No,65.9
+58,32,Engineering,Bachelor,13.4,No,80.9
+59,37,Finance,Bachelor,9.6,No,66.2
+60,41,Marketing,Master,2.7,Yes,84.3
+61,31,Finance,Master,4.8,Yes,80.1
+62,33,Marketing,Bachelor,0.0,No,70.9
+63,27,Marketing,Bachelor,11.9,No,61.5
+64,26,Marketing,High School,4.0,Yes,78.2
+65,40,Marketing,High School,7.9,No,62.5
+66,44,Marketing,Master,7.4,Yes,63.6
+67,34,Engineering,Bachelor,14.0,Yes,69.0
+68,42,Sales,Master,8.3,No,64.9
+69,37,HR,Master,11.2,Yes,64.2
+70,30,Sales,High School,10.2,Yes,52.3
+71,37,Marketing,Bachelor,13.4,Yes,79.0
+72,45,Engineering,Bachelor,7.0,No,70.7
+73,34,Finance,Bachelor,15.5,Yes,55.6
+74,45,Engineering,Master,0.1,No,57.5
+75,16,Marketing,Master,11.4,Yes,72.7
+76,40,Engineering,Master,4.5,Yes,75.9
+77,35,Engineering,Bachelor,6.0,No,49.8
+78,32,Marketing,High School,10.3,Yes,67.7
+79,35,Engineering,Master,10.2,No,70.4
+80,21,HR,High School,10.4,Yes,67.0
+81,33,HR,Bachelor,2.5,No,67.6
+82,37,Engineering,High School,13.8,Yes,65.1
+83,45,Finance,Bachelor,4.4,Yes,79.0
+84,31,Marketing,High School,4.9,Yes,61.5
+85,29,HR,Bachelor,10.6,Yes,59.9
+86,31,Finance,PhD,6.9,No,65.3
+87,41,Engineering,High School,9.2,Yes,53.1
+88,37,Finance,High School,0.0,Yes,50.6
+89,31,Sales,Bachelor,9.1,Yes,80.4
+90,38,HR,Master,8.9,Yes,63.1
+91,35,Engineering,Bachelor,6.0,No,51.7
+92,41,Marketing,Bachelor,0.0,Yes,60.2
+93,30,Engineering,High School,7.1,No,56.4
+94,32,Marketing,Master,7.9,No,63.6
+95,32,Engineering,Bachelor,6.5,No,54.1
+96,24,Finance,Master,0.7,Yes,77.0
+97,37,Finance,Master,14.4,No,71.5
+98,36,Finance,Bachelor,5.4,No,52.3
+99,35,Sales,Master,7.1,No,58.8
+100,33,Marketing,High School,0.0,Yes,65.8
+101,25,Finance,Master,14.4,No,63.3
+102,32,Sales,Bachelor,6.1,No,75.8
+103,32,Marketing,Master,8.4,No,76.4
+104,29,Engineering,High School,12.5,Yes,93.7
+105,33,Sales,High School,5.3,Yes,47.1
+106,37,HR,Bachelor,11.9,No,55.8
+107,48,Sales,Bachelor,0.0,Yes,88.6
+108,36,Sales,Bachelor,10.2,No,47.0
+109,36,Marketing,Bachelor,14.3,Yes,86.0
+110,34,Engineering,High School,5.7,Yes,71.9
+111,21,HR,Bachelor,12.5,Yes,72.0
+112,34,Finance,Master,15.3,Yes,58.6
+113,35,Finance,Bachelor,7.0,No,60.5
+114,52,Sales,High School,6.6,No,82.5
+115,33,Marketing,Bachelor,4.4,No,64.5
+116,37,Marketing,High School,6.0,Yes,67.6
+117,34,Finance,PhD,4.7,No,69.1
+118,26,HR,High School,4.4,No,63.1
+119,42,Engineering,Master,12.8,Yes,77.2
+120,40,HR,PhD,4.8,Yes,62.8
+121,40,Engineering,Master,9.0,No,64.2
+122,28,Finance,Bachelor,8.2,No,58.6
+123,44,Engineering,Master,14.0,No,47.0
+124,25,Marketing,PhD,6.0,Yes,71.6
+125,39,Sales,Bachelor,9.5,No,52.7
+126,50,Sales,Bachelor,11.2,Yes,71.8
+127,28,Finance,Bachelor,14.0,Yes,77.2
+128,31,Marketing,Bachelor,5.9,Yes,50.4
+129,35,HR,Bachelor,5.5,Yes,76.6
+130,31,Marketing,Bachelor,3.8,Yes,70.3
+131,24,Sales,Bachelor,16.9,Yes,55.1
+132,35,Sales,High School,13.5,No,85.2
+133,27,Marketing,High School,7.8,No,65.0
+134,38,Marketing,Bachelor,15.7,Yes,66.9
+135,28,Sales,High School,7.6,No,57.2
+136,45,HR,Bachelor,10.9,Yes,77.8
+137,29,Finance,Bachelor,8.0,Yes,64.4
+138,32,Finance,Master,9.6,No,72.6
+139,40,Marketing,High School,9.2,Yes,65.6
+140,26,Finance,Bachelor,6.3,Yes,85.3
+141,36,Sales,Master,12.4,Yes,64.0
+142,44,Sales,Bachelor,10.9,Yes,61.5
+143,23,Marketing,High School,12.1,No,62.2
+144,36,Marketing,Master,9.3,Yes,71.8
+145,36,Marketing,Master,4.4,Yes,66.9
+146,40,HR,Bachelor,14.8,Yes,95.1
+147,26,Finance,Bachelor,6.9,No,85.6
+148,25,Marketing,PhD,9.5,Yes,77.2
+149,38,Engineering,Bachelor,10.5,No,69.2
+150,37,Engineering,Bachelor,9.4,Yes,65.6
+151,36,Sales,Master,11.7,Yes,59.9
+152,37,Finance,Bachelor,12.3,Yes,70.1
+153,30,Marketing,Bachelor,7.1,Yes,79.3
+154,36,Engineering,Bachelor,14.5,Yes,84.7
+155,37,Finance,Master,6.9,Yes,77.5
+156,29,Sales,Bachelor,9.3,No,49.9
+157,48,HR,Bachelor,6.4,Yes,67.2
+158,38,Finance,Bachelor,5.3,No,50.3
+159,26,Finance,Bachelor,12.2,Yes,84.0
+160,39,HR,Bachelor,20.5,Yes,64.5
+161,28,Finance,Master,6.6,Yes,64.8
+162,40,Sales,Bachelor,12.9,No,69.8
+163,43,Sales,High School,6.7,Yes,97.1
+164,29,HR,Master,8.0,Yes,74.4
+165,41,Marketing,High School,15.0,Yes,65.0
+166,37,Engineering,PhD,3.7,Yes,56.9
+167,40,Marketing,High School,2.6,Yes,80.9
+168,48,Finance,Bachelor,7.7,Yes,71.1
+169,33,Engineering,High School,10.7,Yes,91.7
+170,29,HR,Master,9.9,Yes,85.9
+171,28,HR,Bachelor,9.4,No,60.4
+172,29,Engineering,High School,8.1,Yes,58.7
+173,34,Sales,Bachelor,11.1,Yes,66.5
+174,37,Engineering,High School,0.0,Yes,64.4
+175,36,Finance,High School,5.0,No,65.4
+176,40,Sales,Master,7.6,Yes,83.1
+177,35,HR,Bachelor,10.8,Yes,45.9
+178,45,Engineering,Master,14.0,Yes,73.2
+179,33,Marketing,Bachelor,4.5,Yes,77.0
+180,54,Marketing,Bachelor,13.8,Yes,81.4
+181,39,Finance,High School,6.2,No,51.4
+182,28,Marketing,Bachelor,7.5,No,69.2
+183,27,Engineering,Master,10.3,No,77.0
+184,38,Engineering,PhD,7.2,Yes,74.1
+185,33,Marketing,Bachelor,12.4,Yes,74.0
+186,39,Engineering,Bachelor,6.4,Yes,81.6
+187,38,Finance,Bachelor,6.4,Yes,59.2
+188,34,Sales,PhD,12.2,Yes,52.9
+189,29,Finance,Bachelor,4.9,No,63.0
+190,24,Finance,Bachelor,9.0,Yes,76.1
+191,31,Engineering,Master,1.4,Yes,78.3
+192,40,Sales,High School,15.3,Yes,73.4
+193,36,Engineering,High School,12.8,Yes,75.4
+194,26,HR,Bachelor,19.0,Yes,83.9
+195,36,Engineering,Master,13.4,No,61.6
+196,37,Engineering,Bachelor,3.5,Yes,67.1
+197,28,Engineering,Bachelor,10.7,No,77.9
+198,36,Sales,Bachelor,4.3,No,52.9
+199,35,Engineering,Bachelor,14.3,No,69.3
+200,26,Sales,Bachelor,3.6,Yes,66.5
+201,37,Marketing,Bachelor,3.4,Yes,77.4
+202,38,HR,Bachelor,1.6,Yes,66.9
+203,42,Sales,Bachelor,6.0,No,65.1
+204,42,Marketing,Bachelor,5.2,Yes,87.0
+205,25,Sales,Bachelor,3.0,No,54.2
+206,28,Sales,Master,16.0,Yes,71.8
+207,38,HR,High School,10.1,Yes,68.4
+208,38,Finance,Master,9.6,Yes,72.9
+209,38,Finance,Master,14.4,Yes,89.1
+210,61,Sales,Bachelor,9.0,Yes,67.6
+211,38,Engineering,Bachelor,5.0,No,53.0
+212,42,Marketing,Bachelor,1.2,No,56.9
+213,41,Engineering,Bachelor,4.8,No,62.7
+214,39,Engineering,Bachelor,14.0,No,65.6
+215,32,Sales,High School,3.0,No,66.1
+216,40,Sales,Bachelor,9.4,Yes,92.9
+217,29,Sales,Master,12.1,No,81.2
+218,33,Sales,Bachelor,9.1,Yes,87.3
+219,31,Finance,Master,9.6,Yes,100.0
+220,35,Sales,Bachelor,10.6,No,73.2
+221,51,Finance,Master,9.5,Yes,82.1
+222,21,Finance,Bachelor,14.4,Yes,81.0
+223,39,Sales,High School,3.8,Yes,78.7
+224,23,HR,Bachelor,9.0,Yes,76.2
+225,31,Marketing,High School,0.7,No,61.0
+226,42,Engineering,Bachelor,0.0,Yes,55.0
+227,35,Finance,Master,7.7,Yes,67.2
+228,27,Marketing,High School,10.2,Yes,79.3
+229,29,HR,Bachelor,14.5,Yes,67.0
+230,39,Engineering,Master,17.7,No,54.3
+231,29,Engineering,Master,13.3,Yes,70.7
+232,36,Finance,Bachelor,10.9,Yes,71.3
+233,35,Sales,Bachelor,8.6,No,64.4
+234,30,HR,Bachelor,1.9,No,69.9
+235,50,Finance,Bachelor,7.4,No,72.1
+236,39,HR,Master,13.2,No,60.0
+237,20,Sales,PhD,11.6,Yes,80.7
+238,36,Sales,Master,2.9,Yes,80.5
+239,30,Finance,Master,10.5,Yes,73.6
+240,40,Sales,High School,10.1,No,71.6
+241,29,Marketing,Master,9.4,Yes,76.3
+242,34,Engineering,Master,7.9,Yes,63.7
+243,38,Finance,High School,10.7,Yes,83.5
+244,41,HR,Master,10.8,Yes,59.2
+245,26,Marketing,Bachelor,5.4,Yes,64.2
+246,32,Finance,Bachelor,9.8,No,67.0
+247,31,Sales,Master,7.2,Yes,44.9
+248,30,Sales,Bachelor,2.1,No,66.8
+249,47,Sales,High School,5.8,No,74.8
+250,37,Sales,Bachelor,1.7,Yes,51.6
+251,26,HR,Bachelor,11.9,Yes,81.2
+252,41,Marketing,Master,9.4,Yes,61.2
+253,49,Engineering,Bachelor,6.6,Yes,76.2
+254,42,HR,Bachelor,13.7,No,59.5
+255,24,HR,Master,8.3,Yes,78.1
+256,31,Engineering,Bachelor,2.3,Yes,75.3
+257,43,Engineering,Bachelor,6.2,Yes,76.0
+258,30,Sales,Bachelor,14.5,No,65.0
+259,38,HR,Master,5.3,No,60.2
+260,40,Finance,Bachelor,9.1,No,64.3
+261,28,Engineering,Bachelor,11.0,No,71.6
+262,34,Engineering,High School,10.4,Yes,79.2
+263,12,Marketing,High School,17.8,No,70.5
+264,27,Finance,High School,3.3,Yes,56.9
+265,33,Finance,High School,3.7,No,64.8
+266,26,Engineering,Bachelor,3.4,No,58.7
+267,46,Sales,Master,6.8,Yes,74.0
+268,24,Marketing,Bachelor,12.4,No,57.4
+269,31,Finance,Master,3.9,No,69.5
+270,35,Engineering,PhD,12.5,Yes,67.5
+271,45,Finance,Master,8.1,No,46.2
+272,24,Marketing,Bachelor,3.6,Yes,82.4
+273,43,Marketing,Bachelor,1.0,Yes,71.6
+274,35,HR,Bachelor,1.9,Yes,83.6
+275,28,Engineering,High School,5.3,Yes,52.5
+276,38,Marketing,Bachelor,7.3,No,62.1
+277,36,HR,Master,13.4,No,62.8
+278,30,HR,Master,11.2,No,67.7
+279,35,Finance,Bachelor,4.6,Yes,55.4
+280,32,Finance,Bachelor,9.6,No,70.4
+281,35,HR,Master,14.6,Yes,87.9
+282,39,Finance,High School,15.5,No,69.7
+283,46,Marketing,Bachelor,6.7,Yes,68.2
+284,26,Sales,Master,11.8,Yes,55.2
+285,49,Marketing,Bachelor,13.6,No,57.3
+286,21,HR,High School,2.0,Yes,75.6
+287,33,HR,Bachelor,6.0,Yes,62.1
+288,39,Marketing,Master,16.9,Yes,84.2
+289,36,Finance,Bachelor,6.8,Yes,74.4
+290,30,Finance,Bachelor,0.0,Yes,90.9
+291,33,HR,Bachelor,7.5,Yes,58.7
+292,31,Engineering,Bachelor,12.5,Yes,73.9
+293,30,Finance,Bachelor,8.0,Yes,57.2
+294,40,Marketing,Master,10.9,No,42.8
+295,37,Finance,High School,11.8,Yes,81.2
+296,30,Marketing,Master,6.6,No,70.0
+297,41,HR,High School,5.9,No,56.5
+298,37,Finance,Bachelor,8.6,Yes,64.1
+299,40,Marketing,High School,8.7,No,58.7
+300,39,HR,Bachelor,8.2,No,60.1
+301,29,Engineering,Bachelor,8.4,No,61.8
+302,31,Marketing,Bachelor,5.0,Yes,57.5
+303,40,Engineering,High School,11.0,Yes,58.0
+304,39,Engineering,Bachelor,10.4,No,58.1
+305,34,Sales,High School,2.7,No,69.2
+306,35,Finance,Master,6.4,No,37.3
+307,43,Marketing,Master,8.4,Yes,70.7
+308,30,Engineering,Bachelor,5.9,No,54.1
+309,38,Sales,Bachelor,10.5,No,54.5
+310,33,HR,Bachelor,7.7,Yes,62.7
+311,33,Marketing,High School,8.7,Yes,70.9
+312,42,Engineering,Bachelor,6.4,Yes,64.4
+313,40,Finance,Master,0.0,No,54.4
+314,40,Sales,Bachelor,0.0,No,72.2
+315,44,Engineering,High School,10.4,No,56.0
+316,35,Finance,Master,9.1,Yes,61.4
+317,39,Engineering,Bachelor,9.8,Yes,70.5
+318,32,Marketing,Master,8.5,Yes,78.0
+319,37,Marketing,Bachelor,8.9,Yes,64.4
+320,34,Marketing,Bachelor,11.9,No,35.6
+321,35,Sales,High School,9.8,No,56.1
+322,39,Marketing,High School,12.2,No,66.6
+323,29,Finance,PhD,8.7,No,71.9
+324,49,Engineering,Bachelor,6.8,Yes,68.8
+325,27,HR,PhD,8.8,Yes,67.0
+326,26,Finance,Bachelor,4.7,No,87.9
+327,43,Finance,High School,6.5,No,61.3
+328,40,Marketing,High School,8.7,Yes,76.1
+329,39,Sales,Bachelor,8.7,Yes,59.7
+330,39,Engineering,Master,7.6,Yes,61.1
+331,34,Sales,Bachelor,2.4,No,71.5
+332,28,Engineering,Bachelor,10.5,Yes,81.4
+333,35,Engineering,Bachelor,11.3,Yes,69.9
+334,30,Sales,High School,14.6,Yes,50.9
+335,41,Finance,Bachelor,9.8,Yes,67.4
+336,33,Engineering,High School,8.0,No,66.9
+337,29,Sales,Master,3.9,Yes,70.2
+338,32,Engineering,Bachelor,14.0,No,59.4
+339,37,HR,Bachelor,9.0,No,63.5
+340,31,Finance,Bachelor,8.8,No,57.5
+341,29,Marketing,Bachelor,7.0,Yes,52.5
+342,36,Engineering,PhD,6.7,No,72.6
+343,36,HR,Bachelor,10.8,Yes,70.0
+344,31,Marketing,High School,3.9,No,63.5
+345,31,Marketing,Bachelor,14.5,No,59.9
+346,36,Engineering,High School,13.6,Yes,63.1
+347,24,Sales,High School,6.6,Yes,69.3
+348,25,Engineering,PhD,4.5,Yes,93.6
+349,29,HR,Master,0.0,Yes,73.3
+350,33,Marketing,PhD,3.0,Yes,58.6
+351,37,Engineering,Bachelor,10.9,Yes,63.9
+352,45,Sales,Bachelor,9.3,Yes,61.6
+353,41,Engineering,High School,10.0,Yes,67.0
+354,33,Finance,Bachelor,0.6,Yes,61.9
+355,34,Sales,Master,6.4,Yes,76.7
+356,27,HR,Bachelor,13.5,Yes,41.8
+357,34,Marketing,Master,7.6,Yes,75.9
+358,32,Engineering,Master,2.9,Yes,75.8
+359,37,Sales,High School,7.6,Yes,79.6
+360,29,Finance,Bachelor,4.9,No,73.8
+361,38,Sales,Bachelor,9.3,Yes,65.2
+362,45,Finance,Bachelor,8.1,Yes,85.2
+363,34,HR,Master,10.2,Yes,68.3
+364,37,Marketing,Bachelor,3.1,No,45.7
+365,39,HR,High School,6.2,No,66.6
+366,32,Engineering,Bachelor,12.4,No,58.8
+367,36,Sales,PhD,2.6,No,65.0
+368,35,Finance,High School,4.0,Yes,86.0
+369,35,Finance,Master,8.8,Yes,75.0
+370,29,Sales,Bachelor,9.1,Yes,58.4
+371,35,Sales,Master,6.0,No,74.6
+372,38,Engineering,Master,6.9,No,68.6
+373,45,HR,Bachelor,10.1,No,53.6
+374,41,Finance,Bachelor,11.4,Yes,51.0
+375,50,Engineering,Master,3.7,No,55.2
+376,29,HR,Bachelor,9.5,Yes,77.8
+377,41,Engineering,Master,14.0,Yes,68.5
+378,36,Finance,High School,7.5,Yes,70.9
+379,50,Sales,Master,3.7,Yes,54.0
+380,29,Sales,Master,3.5,Yes,80.7
+381,29,HR,Master,7.4,No,44.8
+382,30,Marketing,High School,12.1,Yes,61.5
+383,20,HR,Bachelor,7.8,Yes,75.5
+384,31,Marketing,Bachelor,8.8,Yes,57.2
+385,29,Engineering,Bachelor,4.0,Yes,72.8
+386,36,Engineering,Bachelor,11.9,No,56.3
+387,37,Finance,High School,3.4,No,52.7
+388,48,Marketing,Master,6.0,No,77.9
+389,41,Finance,Bachelor,10.5,No,66.5
+390,30,Sales,High School,0.0,No,70.2
+391,28,Marketing,Bachelor,8.7,Yes,77.8
+392,38,HR,Bachelor,3.8,No,38.8
+393,25,Sales,High School,8.1,Yes,72.5
+394,47,Sales,PhD,6.6,Yes,62.1
+395,43,HR,Master,16.4,Yes,64.7
+396,31,Sales,Bachelor,6.4,No,69.4
+397,23,Marketing,High School,15.4,No,61.4
+398,44,Finance,Master,10.3,Yes,83.7
+399,34,Sales,Bachelor,4.8,No,64.6
+400,43,Marketing,Bachelor,9.3,No,66.7
+401,23,Engineering,Bachelor,6.8,Yes,72.7
+402,30,Marketing,Bachelor,9.0,Yes,56.3
+403,35,Finance,Bachelor,5.1,No,57.6
+404,35,Marketing,Bachelor,14.8,Yes,67.5
+405,31,HR,Bachelor,11.7,No,83.4
+406,39,Finance,Master,8.1,Yes,85.5
+407,27,Engineering,Bachelor,14.9,Yes,61.0
+408,34,HR,Master,8.3,No,65.6
+409,35,Marketing,Master,12.4,No,62.1
+410,38,Finance,Bachelor,8.2,No,66.3
+411,39,Engineering,Bachelor,9.6,No,67.6
+412,27,HR,Bachelor,7.7,No,70.3
+413,24,Engineering,Bachelor,8.4,No,36.0
+414,43,Marketing,Master,8.7,Yes,77.4
+415,37,Engineering,Bachelor,5.3,Yes,60.0
+416,29,Sales,PhD,6.4,Yes,63.2
+417,45,HR,High School,7.1,No,72.9
+418,35,Engineering,High School,8.9,Yes,87.7
+419,43,Marketing,Bachelor,7.9,Yes,76.2
+420,35,Marketing,Bachelor,12.7,Yes,65.2
+421,49,Engineering,Bachelor,11.4,No,54.2
+422,47,Marketing,Bachelor,7.2,No,34.9
+423,33,Finance,Bachelor,13.5,Yes,78.0
+424,41,Finance,High School,15.5,No,70.8
+425,39,Finance,PhD,0.0,Yes,66.1
+426,44,Sales,Bachelor,11.7,Yes,80.3
+427,28,Engineering,Master,5.2,No,51.8
+428,39,Sales,Master,11.2,Yes,71.1
+429,42,Marketing,Master,13.0,No,62.5
+430,22,Sales,High School,4.5,Yes,67.3
+431,26,Marketing,Master,0.6,Yes,79.4
+432,20,Marketing,Bachelor,11.3,No,64.0
+433,33,HR,Bachelor,8.5,Yes,67.4
+434,40,Finance,Bachelor,1.3,No,55.6
+435,45,Marketing,Master,18.1,No,78.3
+436,35,HR,Bachelor,10.5,Yes,52.8
+437,46,Finance,Master,10.7,Yes,63.3
+438,25,Marketing,Bachelor,13.5,Yes,84.5
+439,23,Marketing,Master,5.7,Yes,66.1
+440,34,Sales,PhD,8.5,Yes,64.1
+441,37,Sales,Bachelor,2.7,Yes,66.3
+442,34,Finance,PhD,5.6,Yes,60.2
+443,20,Marketing,High School,9.5,Yes,68.0
+444,34,Engineering,High School,1.3,No,61.5
+445,25,Sales,High School,5.5,No,66.8
+446,39,Finance,Bachelor,4.3,No,49.9
+447,37,Marketing,Bachelor,8.6,Yes,74.4
+448,28,Marketing,High School,10.3,No,75.2
+449,31,Engineering,High School,11.0,Yes,65.4
+450,27,Finance,Master,12.0,No,71.5
+451,34,Marketing,Master,13.5,No,68.1
+452,41,Sales,Master,10.4,Yes,63.2
+453,28,Engineering,Master,15.5,No,54.4
+454,38,Finance,Master,8.5,No,55.8
+455,31,Engineering,High School,7.3,No,67.9
+456,29,Sales,Bachelor,10.4,No,64.4
+457,34,Finance,Master,7.1,Yes,74.2
+458,27,Engineering,Bachelor,15.4,Yes,76.6
+459,31,HR,Bachelor,12.5,Yes,76.5
+460,26,Sales,High School,11.0,No,67.6
+461,48,Sales,Bachelor,8.5,Yes,61.6
+462,35,Sales,Bachelor,6.4,No,68.3
+463,30,HR,Bachelor,10.8,Yes,72.0
+464,36,HR,Bachelor,3.5,Yes,58.8
+465,34,Marketing,Bachelor,14.1,Yes,86.7
+466,33,Engineering,High School,7.3,No,76.0
+467,39,Marketing,High School,9.2,Yes,59.0
+468,40,Engineering,Master,4.4,Yes,67.0
+469,31,HR,Bachelor,10.9,Yes,58.8
+470,30,HR,High School,6.2,Yes,78.6
+471,33,Marketing,Master,10.6,Yes,72.7
+472,18,Finance,Bachelor,11.0,No,65.4
+473,24,Marketing,Bachelor,5.4,Yes,70.4
+474,44,Engineering,High School,3.5,Yes,60.0
+475,46,Marketing,Master,14.1,No,68.8
+476,33,Sales,Bachelor,7.2,No,64.0
+477,39,Engineering,Bachelor,8.9,No,58.2
+478,37,Engineering,Master,9.9,Yes,52.3
+479,56,Finance,Bachelor,3.0,No,65.3
+480,42,HR,Bachelor,9.9,No,68.6
+481,34,Engineering,High School,8.4,No,48.0
+482,28,HR,Bachelor,5.4,Yes,69.3
+483,23,Marketing,High School,3.4,Yes,73.9
+484,36,Sales,Bachelor,10.4,No,59.5
+485,29,Finance,Master,12.5,Yes,73.7
+486,25,HR,Bachelor,8.7,Yes,66.6
+487,30,Engineering,Bachelor,2.3,No,67.8
+488,27,HR,High School,3.8,No,70.3
+489,46,Engineering,Bachelor,6.3,Yes,73.5
+490,41,HR,Bachelor,14.3,No,75.2
+491,34,Engineering,Master,7.0,Yes,69.4
+492,45,Marketing,High School,6.1,Yes,70.1
+493,35,Engineering,Master,1.3,No,58.5
+494,28,Engineering,Master,5.4,Yes,62.6
+495,45,Sales,Bachelor,3.1,Yes,70.4
+496,38,Engineering,Master,4.0,No,78.2
+497,27,Sales,Bachelor,8.5,Yes,69.9
+498,33,Finance,Bachelor,6.4,Yes,72.0
+499,28,Sales,Bachelor,14.8,No,57.5
+500,25,Marketing,Bachelor,12.3,No,66.9
+501,41,Sales,Bachelor,5.6,No,77.6
+502,48,Finance,Bachelor,4.3,No,71.9
+503,25,Marketing,Bachelor,13.5,Yes,53.1
+504,38,HR,Bachelor,14.6,No,70.7
+505,30,HR,High School,0.0,Yes,80.1
+506,31,Sales,Master,8.4,No,66.7
+507,30,Sales,Master,7.0,Yes,76.9
+508,28,Finance,Bachelor,10.6,No,56.7
+509,35,Finance,High School,15.8,Yes,71.5
+510,29,Engineering,Master,6.1,Yes,80.8
+511,36,Finance,Master,0.0,No,75.2
+512,34,Engineering,Master,10.3,No,70.5
+513,33,Marketing,Bachelor,13.6,No,56.2
+514,28,Sales,Bachelor,6.8,Yes,64.9
+515,30,Marketing,High School,5.2,Yes,72.0
+516,40,Finance,High School,6.3,No,66.8
+517,38,Marketing,Master,11.4,No,64.0
+518,28,Marketing,Master,6.2,No,57.0
+519,35,Marketing,Bachelor,9.3,No,69.4
+520,40,Finance,Master,8.1,No,66.1
+521,23,Marketing,Bachelor,7.7,Yes,70.2
+522,38,Engineering,Bachelor,10.8,No,70.9
+523,30,Finance,Bachelor,6.1,No,62.3
+524,38,Marketing,Master,6.3,No,60.1
+525,29,Finance,High School,11.2,No,76.1
+526,22,HR,Master,4.1,No,57.4
+527,23,Engineering,Master,4.5,Yes,57.8
+528,35,Marketing,High School,3.0,Yes,80.8
+529,36,HR,Bachelor,11.4,Yes,63.9
+530,28,HR,Master,7.6,No,64.0
+531,39,Finance,Bachelor,2.7,No,60.9
+532,23,HR,Master,11.4,Yes,54.8
+533,34,Engineering,Master,5.8,No,63.8
+534,26,Engineering,Bachelor,4.5,Yes,60.9
+535,30,Sales,Bachelor,7.2,Yes,71.5
+536,35,Engineering,Master,13.9,No,76.1
+537,28,HR,Bachelor,6.4,No,42.9
+538,32,Engineering,High School,10.3,Yes,67.4
+539,42,Finance,High School,10.9,Yes,70.0
+540,30,Sales,Bachelor,9.8,Yes,53.1
+541,40,HR,Master,13.1,Yes,85.1
+542,27,Sales,Master,5.2,Yes,72.2
+543,38,HR,Bachelor,3.8,Yes,83.3
+544,45,Finance,High School,3.7,Yes,68.0
+545,17,Sales,Bachelor,7.4,Yes,64.6
+546,29,Marketing,Master,4.2,Yes,67.7
+547,39,HR,High School,8.6,Yes,95.9
+548,33,Marketing,Bachelor,8.3,No,78.2
+549,37,Sales,High School,12.1,No,66.3
+550,30,Marketing,Bachelor,9.2,Yes,69.1
+551,35,Marketing,Master,6.3,Yes,74.9
+552,33,Sales,Bachelor,9.6,Yes,97.0
+553,43,Finance,Bachelor,3.9,Yes,70.7
+554,36,Marketing,Bachelor,7.8,Yes,69.8
+555,37,Marketing,PhD,9.3,Yes,67.5
+556,32,Finance,High School,8.5,Yes,69.6
+557,31,Marketing,Bachelor,9.7,No,59.1
+558,31,Marketing,Bachelor,5.4,Yes,77.0
+559,37,Marketing,Master,12.6,Yes,61.7
+560,32,Engineering,Bachelor,15.3,No,62.4
+561,37,Finance,High School,1.6,Yes,74.5
+562,49,Marketing,Bachelor,3.1,Yes,75.3
+563,41,Finance,Master,8.2,Yes,68.3
+564,32,HR,High School,7.0,Yes,70.8
+565,43,HR,Master,15.6,No,75.4
+566,32,Marketing,High School,8.9,Yes,55.2
+567,20,Finance,Bachelor,13.6,Yes,54.5
+568,27,Finance,Bachelor,0.0,Yes,65.5
+569,21,Finance,Master,11.3,Yes,71.8
+570,32,Engineering,Bachelor,5.1,No,51.4
+571,35,HR,Master,5.1,No,74.5
+572,46,Finance,Master,7.0,Yes,60.4
+573,37,Finance,Bachelor,2.3,Yes,69.3
+574,33,Engineering,Master,9.8,Yes,64.3
+575,40,Engineering,Master,8.8,No,64.3
+576,19,Finance,High School,9.1,Yes,59.8
+577,36,Sales,Bachelor,11.5,Yes,78.0
+578,40,Finance,Master,14.1,Yes,55.3
+579,24,Finance,High School,6.5,Yes,56.2
+580,43,Engineering,Master,9.9,Yes,91.1
+581,37,Engineering,PhD,9.2,Yes,74.3
+582,32,Finance,High School,9.5,Yes,76.5
+583,39,Finance,Bachelor,9.6,Yes,77.1
+584,50,Finance,Bachelor,14.4,Yes,62.1
+585,36,Engineering,Bachelor,6.2,No,51.9
+586,36,Finance,High School,1.9,Yes,73.0
+587,31,Finance,High School,5.2,Yes,61.9
+588,29,Marketing,Bachelor,11.0,No,55.8
+589,40,Sales,Master,8.1,Yes,59.7
+590,29,HR,Master,6.1,No,66.1
+591,35,Sales,Bachelor,3.7,No,80.7
+592,31,Marketing,High School,8.9,Yes,74.6
+593,38,HR,Bachelor,10.6,No,63.9
+594,37,Finance,Bachelor,9.2,Yes,69.4
+595,42,Marketing,Master,7.0,Yes,38.3
+596,31,Finance,Master,8.6,Yes,66.4
+597,33,Engineering,Master,8.6,Yes,56.8
+598,28,Marketing,Master,8.8,No,66.3
+599,31,Engineering,High School,3.3,No,62.4
+600,37,Marketing,Master,8.8,No,56.3
+601,40,Marketing,Bachelor,6.2,No,66.1
+602,28,Engineering,Master,12.2,No,66.0
+603,41,HR,Bachelor,8.5,No,80.2
+604,44,Sales,Master,11.3,Yes,72.5
+605,37,Finance,Master,6.8,Yes,71.9
+606,48,Marketing,High School,6.9,Yes,57.0
+607,29,Finance,Bachelor,14.0,No,54.3
+608,26,Engineering,Master,9.7,Yes,76.4
+609,22,Finance,Bachelor,5.1,Yes,64.5
+610,45,Engineering,Bachelor,11.6,Yes,83.3
+611,39,Finance,Bachelor,5.9,Yes,78.2
+612,34,Sales,High School,8.9,Yes,54.2
+613,36,Sales,Master,15.3,Yes,83.6
+614,27,Sales,Bachelor,2.3,No,74.7
+615,52,Sales,High School,7.3,Yes,50.2
+616,35,Sales,Bachelor,9.6,No,88.5
+617,35,Sales,Bachelor,11.1,Yes,76.5
+618,40,Engineering,High School,3.0,Yes,61.8
+619,38,Marketing,Bachelor,1.9,Yes,73.9
+620,36,Finance,Bachelor,12.4,Yes,62.5
+621,29,Sales,Bachelor,5.1,Yes,74.8
+622,38,Engineering,Master,5.0,Yes,61.6
+623,48,Engineering,Bachelor,14.2,Yes,87.2
+624,44,Engineering,Bachelor,8.3,Yes,76.9
+625,46,Marketing,Bachelor,8.3,Yes,78.1
+626,31,Finance,Bachelor,7.3,No,57.1
+627,28,Marketing,Bachelor,3.1,No,73.2
+628,34,HR,Bachelor,10.7,Yes,66.4
+629,35,Engineering,Master,9.6,No,50.9
+630,42,HR,Bachelor,8.7,Yes,68.2
+631,23,Sales,Bachelor,7.5,No,84.3
+632,45,Sales,Master,6.8,No,73.6
+633,33,Marketing,Bachelor,11.6,No,61.2
+634,32,Finance,Bachelor,7.4,Yes,47.4
+635,27,HR,Bachelor,7.7,Yes,62.8
+636,23,Finance,High School,10.1,Yes,57.0
+637,40,Marketing,Master,8.8,Yes,55.0
+638,35,Sales,Master,14.6,Yes,78.0
+639,25,Finance,Master,1.0,Yes,70.9
+640,25,Finance,Bachelor,9.2,Yes,88.4
+641,32,Sales,Bachelor,5.2,Yes,64.8
+642,46,HR,High School,4.2,No,65.0
+643,33,Sales,Bachelor,6.2,No,51.1
+644,24,Finance,Bachelor,8.2,No,59.1
+645,33,HR,PhD,8.4,Yes,68.8
+646,33,HR,Bachelor,1.9,No,61.3
+647,16,Sales,Bachelor,5.8,No,65.5
+648,34,Finance,Bachelor,9.1,Yes,79.4
+649,33,Marketing,Bachelor,4.5,Yes,84.5
+650,39,Finance,Bachelor,3.5,No,57.3
+651,47,Engineering,Master,0.0,Yes,67.0
+652,42,Marketing,Bachelor,5.3,Yes,77.9
+653,33,HR,Master,3.4,Yes,80.1
+654,27,Marketing,Bachelor,4.1,Yes,64.0
+655,53,HR,Master,6.9,No,72.1
+656,35,HR,Master,5.6,No,68.3
+657,35,Marketing,Bachelor,3.3,Yes,59.7
+658,34,HR,Bachelor,0.0,Yes,80.7
+659,36,HR,PhD,9.2,Yes,71.8
+660,33,Engineering,Bachelor,11.0,Yes,52.9
+661,30,Finance,Master,6.4,Yes,68.6
+662,31,Finance,High School,6.9,No,65.4
+663,34,Engineering,Bachelor,8.0,Yes,61.0
+664,31,Marketing,Master,14.3,Yes,78.5
+665,30,Sales,Master,1.7,No,77.6
+666,35,Sales,Bachelor,6.3,Yes,68.3
+667,33,Sales,Master,1.1,No,60.1
+668,45,Engineering,Bachelor,9.4,No,63.7
+669,16,Engineering,High School,7.4,No,63.0
+670,42,HR,Bachelor,8.8,Yes,64.7
+671,43,Sales,Bachelor,8.6,Yes,30.0
+672,20,Marketing,Master,12.0,Yes,90.1
+673,32,Marketing,Bachelor,10.2,Yes,70.5
+674,32,Sales,Bachelor,11.3,No,63.2
+675,25,Sales,High School,3.7,No,68.3
+676,29,Sales,Bachelor,12.8,No,64.2
+677,27,Engineering,Bachelor,5.1,No,60.7
+678,47,Engineering,Master,5.3,No,54.9
+679,41,Engineering,Bachelor,9.1,Yes,51.9
+680,43,Finance,Master,9.2,Yes,64.0
+681,40,Marketing,PhD,3.7,No,53.8
+682,27,Marketing,Bachelor,7.3,Yes,68.8
+683,31,HR,Master,14.0,Yes,75.3
+684,38,Engineering,Master,2.1,Yes,63.2
+685,26,Finance,Bachelor,13.9,No,38.4
+686,39,Finance,High School,7.0,Yes,72.6
+687,33,Marketing,Bachelor,0.0,No,60.8
+688,32,Engineering,Bachelor,2.5,No,60.5
+689,39,HR,Master,4.1,Yes,77.9
+690,38,Engineering,Bachelor,5.5,Yes,69.5
+691,32,Sales,Master,7.6,Yes,61.9
+692,43,Engineering,Bachelor,0.0,No,52.9
+693,27,Sales,High School,8.7,No,62.4
+694,39,Sales,PhD,3.8,No,55.9
+695,39,HR,Bachelor,13.6,Yes,71.1
+696,32,Marketing,Bachelor,6.9,Yes,74.3
+697,37,Engineering,Bachelor,11.8,Yes,58.6
+698,26,Sales,High School,12.4,No,65.9
+699,41,Engineering,Bachelor,12.3,Yes,82.7
+700,33,Marketing,Bachelor,5.7,Yes,66.3
+701,31,Marketing,Bachelor,5.7,Yes,78.2
+702,42,Finance,PhD,7.1,Yes,67.5
+703,30,Marketing,Bachelor,10.5,Yes,68.8
+704,25,HR,Bachelor,6.0,Yes,77.2
+705,24,Sales,Bachelor,7.5,Yes,63.6
+706,39,Finance,Master,9.1,Yes,93.4
+707,26,HR,High School,4.4,No,70.8
+708,47,Engineering,Bachelor,4.1,No,78.0
+709,20,Sales,High School,7.4,Yes,80.0
+710,46,Marketing,High School,7.9,No,68.3
+711,36,Sales,Master,9.7,Yes,82.3
+712,34,Engineering,Master,10.7,Yes,62.7
+713,31,Finance,Bachelor,3.6,No,57.7
+714,37,Finance,Bachelor,4.8,No,65.1
+715,34,Finance,Bachelor,4.1,No,54.9
+716,42,Marketing,PhD,13.6,Yes,47.8
+717,35,HR,PhD,7.5,Yes,60.2
+718,36,HR,Bachelor,8.1,No,65.7
+719,32,Sales,Master,8.2,Yes,75.9
+720,34,Marketing,Master,5.1,Yes,60.7
+721,37,Finance,Bachelor,14.3,No,75.1
+722,23,Finance,Bachelor,9.6,No,52.9
+723,25,Engineering,Bachelor,8.2,No,55.8
+724,40,Engineering,Master,3.6,Yes,81.7
+725,36,Finance,PhD,3.4,No,65.5
+726,33,Finance,Master,6.8,Yes,68.3
+727,35,Marketing,Master,5.2,Yes,67.3
+728,37,HR,Bachelor,3.7,No,52.9
+729,31,Engineering,Master,6.5,Yes,68.1
+730,29,HR,Master,7.1,Yes,75.9
+731,36,Marketing,Bachelor,8.6,No,77.3
+732,28,Finance,Bachelor,6.0,Yes,48.8
+733,37,HR,Master,4.0,Yes,83.3
+734,23,Finance,High School,4.1,Yes,72.5
+735,42,Finance,Master,12.9,Yes,56.5
+736,38,Sales,High School,3.0,Yes,52.4
+737,36,HR,Bachelor,9.5,No,67.7
+738,41,HR,Master,10.1,No,51.5
+739,46,Finance,Bachelor,7.5,Yes,67.2
+740,42,Marketing,Bachelor,15.1,No,62.5
+741,22,Sales,Bachelor,10.0,Yes,85.9
+742,26,Finance,Master,15.4,Yes,82.8
+743,30,Engineering,High School,5.4,No,58.6
+744,35,Engineering,Master,5.5,Yes,62.9
+745,38,Sales,High School,10.1,No,49.0
+746,29,Marketing,PhD,7.0,Yes,49.0
+747,36,Finance,PhD,14.7,No,52.7
+748,29,HR,Bachelor,9.4,Yes,85.4
+749,30,Sales,Bachelor,3.8,Yes,80.6
+750,25,Marketing,Bachelor,1.1,Yes,77.4
+751,28,HR,Bachelor,7.7,No,50.4
+752,25,Engineering,High School,7.6,Yes,68.5
+753,28,Engineering,High School,9.3,No,56.4
+754,42,HR,High School,12.8,Yes,66.7
+755,28,Sales,Bachelor,12.3,Yes,68.9
+756,53,Engineering,Bachelor,5.7,Yes,63.5
+757,38,Finance,Bachelor,2.8,No,68.5
+758,36,HR,PhD,3.1,No,67.3
+759,28,HR,Bachelor,5.1,Yes,61.3
+760,39,Engineering,Bachelor,6.5,No,68.0
+761,30,Sales,Bachelor,9.2,Yes,83.5
+762,35,Finance,Master,4.8,No,79.3
+763,52,Sales,Master,9.1,No,69.9
+764,34,Marketing,Master,9.4,Yes,73.0
+765,43,Marketing,PhD,8.6,Yes,65.6
+766,30,Engineering,High School,3.5,No,75.3
+767,34,Engineering,Master,9.9,No,54.3
+768,47,Engineering,Master,16.3,Yes,80.8
+769,30,Marketing,Bachelor,9.0,Yes,67.7
+770,47,Sales,PhD,0.0,Yes,85.6
+771,39,Sales,High School,13.0,Yes,71.1
+772,31,Engineering,Bachelor,5.2,No,64.3
+773,39,Finance,Bachelor,17.1,No,62.6
+774,41,Sales,Bachelor,8.5,Yes,75.2
+775,39,Marketing,Master,1.3,Yes,73.4
+776,24,HR,Bachelor,0.0,Yes,66.5
+777,29,HR,Bachelor,14.2,Yes,72.6
+778,33,HR,Bachelor,12.4,Yes,75.9
+779,34,Finance,Master,16.9,Yes,57.1
+780,39,Engineering,High School,8.0,Yes,75.9
+781,36,Marketing,Bachelor,7.8,Yes,79.2
+782,25,Finance,Master,6.5,Yes,78.5
+783,37,Marketing,Master,5.4,Yes,59.8
+784,39,Marketing,Bachelor,6.4,Yes,69.0
+785,38,Engineering,Master,8.9,Yes,69.3
+786,42,HR,Master,4.6,Yes,76.7
+787,40,Engineering,Master,1.3,Yes,72.7
+788,38,Finance,Bachelor,8.6,Yes,57.9
+789,34,Finance,Bachelor,4.5,No,67.9
+790,23,Finance,Bachelor,0.0,No,85.0
+791,38,Engineering,Bachelor,10.2,No,71.1
+792,36,Marketing,Bachelor,3.6,Yes,83.2
+793,36,Marketing,High School,10.6,No,75.4
+794,26,Sales,Bachelor,10.6,No,78.6
+795,27,Finance,Bachelor,9.1,Yes,75.1
+796,42,Marketing,Bachelor,18.0,Yes,72.9
+797,34,Sales,Master,7.4,No,67.6
+798,39,Marketing,Bachelor,6.9,Yes,71.0
+799,35,Finance,High School,10.7,Yes,83.4
+800,35,HR,Master,7.8,No,59.8
+801,41,Finance,High School,12.6,No,83.9
+802,31,Engineering,Master,2.9,Yes,63.6
+803,35,Marketing,Master,3.0,Yes,79.6
+804,31,Marketing,Bachelor,11.1,Yes,85.3
+805,31,Engineering,Master,3.3,No,63.2
+806,32,Engineering,Bachelor,10.4,Yes,58.6
+807,36,HR,Bachelor,9.5,Yes,79.3
+808,31,Marketing,High School,5.2,No,67.0
+809,43,Marketing,Bachelor,9.5,Yes,79.5
+810,28,HR,Master,3.1,No,63.9
+811,33,Sales,Bachelor,4.0,Yes,85.9
+812,31,HR,Bachelor,7.1,Yes,51.3
+813,45,Finance,Bachelor,8.3,No,68.8
+814,36,Marketing,Bachelor,6.8,Yes,79.8
+815,42,Engineering,High School,9.7,Yes,70.2
+816,24,Finance,Bachelor,9.6,Yes,76.5
+817,36,Marketing,Master,14.1,No,60.7
+818,41,HR,Bachelor,7.6,No,65.2
+819,35,Finance,Bachelor,12.8,No,48.3
+820,42,Marketing,High School,11.7,Yes,63.8
+821,31,Sales,Bachelor,17.2,Yes,62.2
+822,44,Sales,Master,7.5,Yes,78.9
+823,51,Engineering,High School,6.3,No,59.3
+824,32,Marketing,High School,13.0,Yes,61.8
+825,31,Sales,Bachelor,9.5,No,61.2
+826,45,HR,Master,13.1,Yes,68.8
+827,46,Marketing,Bachelor,10.9,No,67.7
+828,31,HR,Bachelor,0.0,No,68.8
+829,32,HR,Master,9.5,No,73.3
+830,33,Sales,Bachelor,9.2,Yes,74.9
+831,25,Marketing,Master,8.5,Yes,79.9
+832,28,Finance,Master,7.5,Yes,69.1
+833,27,Sales,Bachelor,1.6,Yes,70.9
+834,29,Sales,Bachelor,11.5,Yes,62.7
+835,34,Marketing,High School,9.5,Yes,58.1
+836,36,Marketing,Bachelor,12.4,Yes,72.6
+837,45,HR,PhD,1.8,No,57.8
+838,28,Marketing,Bachelor,10.0,No,79.7
+839,41,HR,Bachelor,7.1,Yes,68.8
+840,33,Sales,Master,8.6,No,80.0
+841,34,Engineering,Bachelor,7.1,Yes,74.0
+842,39,Finance,High School,10.2,Yes,63.1
+843,27,Sales,Bachelor,7.3,Yes,69.6
+844,37,Marketing,Bachelor,3.8,No,48.3
+845,36,Finance,Master,8.3,Yes,74.8
+846,38,Engineering,High School,7.1,Yes,65.1
+847,37,Engineering,Bachelor,7.7,No,53.9
+848,52,HR,Bachelor,0.0,Yes,85.2
+849,30,Finance,Bachelor,10.7,No,75.3
+850,31,HR,Bachelor,6.7,No,75.0
+851,30,Sales,Bachelor,2.6,No,72.8
+852,31,Finance,Bachelor,11.7,Yes,56.2
+853,30,Sales,Master,10.5,Yes,64.1
+854,43,HR,Bachelor,6.7,Yes,66.9
+855,44,Finance,High School,3.4,Yes,54.2
+856,31,HR,Bachelor,8.7,Yes,62.0
+857,29,Finance,Master,8.5,Yes,65.7
+858,38,HR,Master,11.7,No,66.3
+859,31,Engineering,High School,6.2,No,90.3
+860,39,HR,PhD,12.8,Yes,68.0
+861,36,Engineering,Bachelor,5.8,Yes,73.5
+862,24,HR,High School,2.6,Yes,67.8
+863,45,Finance,High School,3.5,Yes,77.0
+864,47,Finance,High School,7.8,No,54.3
+865,30,Finance,Master,7.7,No,84.0
+866,32,Marketing,High School,9.3,No,63.8
+867,37,Sales,High School,7.6,No,61.0
+868,37,Finance,Master,11.9,Yes,81.1
+869,39,Engineering,Bachelor,7.0,No,56.1
+870,49,Finance,High School,0.0,Yes,78.5
+871,33,Marketing,High School,7.5,Yes,86.6
+872,29,Engineering,High School,0.0,Yes,66.5
+873,25,Marketing,Bachelor,9.1,Yes,92.7
+874,29,Engineering,Bachelor,12.2,Yes,84.7
+875,34,HR,High School,4.1,Yes,78.3
+876,47,Sales,High School,13.7,No,78.7
+877,31,Sales,Master,11.4,Yes,87.8
+878,36,Marketing,Bachelor,12.8,Yes,69.8
+879,34,Sales,Bachelor,8.8,Yes,78.8
+880,43,Marketing,Bachelor,4.0,No,79.0
+881,52,Marketing,Bachelor,11.1,Yes,56.6
+882,31,Marketing,Bachelor,5.5,No,47.7
+883,31,Sales,Bachelor,8.5,No,64.4
+884,42,Marketing,Bachelor,7.3,Yes,49.3
+885,39,Sales,Master,12.5,No,61.9
+886,47,Marketing,High School,10.9,Yes,75.6
+887,39,Finance,Master,7.7,Yes,68.0
+888,32,Marketing,High School,0.2,No,63.6
+889,39,Engineering,Master,5.5,Yes,63.6
+890,42,Marketing,Bachelor,10.8,Yes,84.1
+891,40,HR,Master,9.1,Yes,61.4
+892,38,Marketing,High School,2.0,Yes,49.3
+893,42,Engineering,Bachelor,0.8,No,62.9
+894,43,Engineering,Bachelor,8.8,Yes,79.6
+895,44,Sales,Master,3.8,No,65.8
+896,39,Finance,Bachelor,4.2,Yes,61.4
+897,33,Marketing,Bachelor,10.7,No,66.0
+898,36,Sales,Bachelor,12.8,Yes,68.2
+899,43,Finance,Bachelor,5.0,Yes,69.6
+900,29,Marketing,Bachelor,7.8,No,62.4
+901,37,HR,High School,7.7,Yes,77.0
+902,32,Marketing,PhD,7.3,Yes,56.6
+903,35,Engineering,Master,8.2,Yes,59.9
+904,43,Engineering,PhD,11.0,No,51.9
+905,36,HR,Bachelor,5.3,Yes,84.0
+906,35,Sales,Master,1.9,No,72.1
+907,25,Finance,Master,14.8,Yes,74.6
+908,40,Marketing,Bachelor,12.4,Yes,51.3
+909,39,Engineering,Bachelor,3.6,No,72.4
+910,50,Sales,Bachelor,8.5,No,78.9
+911,32,HR,Master,12.0,No,70.7
+912,36,Engineering,Bachelor,11.0,No,64.6
+913,36,HR,High School,9.8,Yes,82.4
+914,46,Marketing,Bachelor,7.3,Yes,72.7
+915,34,Finance,Master,14.9,Yes,74.8
+916,36,Engineering,Master,8.9,No,74.0
+917,39,Engineering,PhD,5.9,No,62.8
+918,36,Marketing,Bachelor,11.5,Yes,64.9
+919,31,Sales,Bachelor,8.4,Yes,63.0
+920,36,Finance,High School,9.4,Yes,77.1
+921,42,Engineering,High School,8.8,No,61.6
+922,27,Finance,High School,10.0,Yes,60.6
+923,35,Engineering,Bachelor,4.1,Yes,75.9
+924,30,Finance,High School,2.2,Yes,79.5
+925,43,HR,Bachelor,13.7,No,66.4
+926,24,Engineering,Master,9.0,No,62.2
+927,31,Finance,Bachelor,11.1,No,68.2
+928,37,Sales,Master,1.0,Yes,70.9
+929,45,HR,Bachelor,12.3,Yes,49.2
+930,34,HR,Bachelor,5.9,No,72.0
+931,31,Sales,Bachelor,4.8,No,69.1
+932,48,Finance,High School,7.7,Yes,77.3
+933,24,Marketing,Bachelor,4.1,Yes,74.2
+934,19,Sales,Bachelor,8.0,Yes,80.2
+935,38,Finance,High School,7.5,Yes,83.4
+936,31,Sales,Bachelor,12.2,No,56.5
+937,27,Sales,Bachelor,14.1,Yes,60.1
+938,39,Engineering,PhD,13.9,Yes,81.8
+939,36,Finance,Master,0.0,Yes,52.6
+940,31,Marketing,Master,4.3,Yes,68.9
+941,26,Engineering,High School,0.0,Yes,79.8
+942,41,Sales,Master,3.2,Yes,53.5
+943,39,Sales,Master,5.4,Yes,75.7
+944,34,Sales,Bachelor,9.6,No,74.5
+945,47,Finance,PhD,5.9,Yes,49.0
+946,27,Finance,Bachelor,6.0,Yes,83.0
+947,24,Engineering,Master,8.7,No,54.9
+948,30,Marketing,Master,1.2,No,70.7
+949,34,Engineering,High School,4.6,No,64.2
+950,36,HR,Bachelor,6.0,Yes,71.8
+951,33,Sales,PhD,7.2,Yes,56.8
+952,37,Sales,High School,8.3,Yes,86.3
+953,26,Sales,Bachelor,14.0,Yes,68.9
+954,45,Engineering,PhD,11.6,Yes,84.7
+955,34,Engineering,Bachelor,4.9,No,52.4
+956,42,Sales,High School,7.0,Yes,69.4
+957,37,Engineering,Bachelor,6.7,Yes,74.8
+958,38,Finance,Bachelor,5.9,Yes,72.0
+959,38,Finance,Bachelor,9.1,Yes,78.1
+960,38,Engineering,High School,0.6,No,63.1
+961,39,Sales,Bachelor,11.5,Yes,92.2
+962,44,Engineering,Bachelor,14.8,No,65.4
+963,36,Engineering,Master,6.9,No,36.2
+964,39,Engineering,Bachelor,6.8,Yes,69.3
+965,34,HR,Bachelor,8.6,Yes,79.3
+966,45,Finance,Bachelor,12.1,No,55.8
+967,30,Marketing,High School,6.7,No,55.1
+968,47,Marketing,Bachelor,11.7,Yes,66.0
+969,34,HR,High School,10.0,No,54.2
+970,24,Engineering,Master,17.4,Yes,66.2
+971,35,HR,High School,6.7,No,74.1
+972,30,HR,Bachelor,0.1,Yes,83.2
+973,40,Sales,Bachelor,2.3,Yes,45.9
+974,30,Finance,Bachelor,8.0,No,61.2
+975,31,Marketing,High School,12.1,Yes,68.0
+976,21,Engineering,Bachelor,5.4,Yes,68.1
+977,31,Marketing,Bachelor,7.1,Yes,88.2
+978,18,Marketing,Master,10.7,No,44.9
+979,23,Finance,Bachelor,4.1,No,39.1
+980,40,Marketing,Bachelor,5.6,No,85.6
+981,40,Marketing,Bachelor,3.3,Yes,75.1
+982,37,HR,Bachelor,12.7,No,59.3
+983,28,Finance,Bachelor,14.2,Yes,74.6
+984,34,Sales,Bachelor,1.7,Yes,73.3
+985,34,Engineering,Bachelor,7.4,No,59.0
+986,26,Marketing,High School,13.6,Yes,70.5
+987,45,Engineering,High School,9.6,Yes,71.9
+988,41,Sales,High School,6.0,Yes,86.1
+989,33,Engineering,Bachelor,1.8,Yes,84.2
+990,35,Sales,Bachelor,12.6,No,82.4
+991,36,HR,Bachelor,9.4,Yes,56.6
+992,20,Marketing,Master,2.1,No,61.5
+993,33,Sales,High School,12.8,Yes,71.6
+994,30,Engineering,Master,1.6,Yes,59.3
+995,27,Marketing,Bachelor,7.1,Yes,79.6
+996,33,HR,Bachelor,6.9,No,71.4
+997,47,Marketing,High School,14.5,No,61.3
+998,39,Sales,Bachelor,7.0,No,63.2
+999,31,HR,Bachelor,6.9,No,77.5
+1000,39,Engineering,Master,2.5,Yes,62.9
